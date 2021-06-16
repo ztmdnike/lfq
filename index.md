@@ -1,8 +1,6 @@
-﻿# 例子
-# home 就是图标的标识 从这里挑选http://fontawesome.io/icons/ 图标，把图标下面的文字替换即可使用
-#   text ：显示文本
-#   url ： 链接
-#   target: 链接的锚点 是否在本站中打开链接
+text ：显示文本
+url ： http://www.baidu.com
+target: 链接的锚点 是否在本站中打开链接
 
 # 主菜单
 menu:
